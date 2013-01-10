@@ -4,7 +4,7 @@
   <title><![CDATA[Searching for Knowledge]]></title>
   <link href="http://mondoni.github.com/atom.xml" rel="self"/>
   <link href="http://mondoni.github.com/"/>
-  <updated>2013-01-10T22:44:03+00:00</updated>
+  <updated>2013-01-10T23:30:12+00:00</updated>
   <id>http://mondoni.github.com/</id>
   <author>
     <name><![CDATA[mondoni]]></name>
@@ -18,7 +18,9 @@
     <link href="http://mondoni.github.com/blog/2013/01/10/hello-octopress/"/>
     <updated>2013-01-10T11:50:00+00:00</updated>
     <id>http://mondoni.github.com/blog/2013/01/10/hello-octopress</id>
-    <content type="html"><![CDATA[<p><strong>Hello to my new and <em>AWESOME</em> Octopress Blog.</strong></p>
+    <content type="html"><![CDATA[<p>Hello to my new and <em>AWESOME</em> Octopress Blog.</p>
+
+<p>(Post being updating)</p>
 
 <p><img src="http://mondoni.github.com/images/octopress2.jpg" title="octopress" ></p>
 
@@ -31,12 +33,18 @@
 
 <p>At first was a little hard, besause when I started to read the offcial <a href="http://octopress.org/docs/">Octopress Documentation</a> and my experience with Ruby was none.</p>
 
-<p>So&#8230;I failed at my first installation.
-Why?! What I have done wrong in following the steps?!
-Well&#8230;in my notebook I use <a href="https://fedoraproject.org/">Fedora</a> as my primary OS. For someone with none Ruby experience the official documentation doesn&#8217;t help very much. And for my pleasure, when I follow all the steps using the Ruby tool <strong><em>rbenv</em></strong> didn&#8217;t worked in my installation.</p>
+<p>So&#8230;I failed at my first installation.</p>
+
+<p>Why?! What I have done wrong in following the steps?!</p>
+
+<p>Well&#8230;in my notebook I use <a href="https://fedoraproject.org/">Fedora</a> as my primary OS. For someone with none Ruby experience the official documentation doesn&#8217;t help very much. And for my pleasure, when I follow all the steps using the Ruby tool <strong><em>rbenv</em></strong> didn&#8217;t worked in my installation.</p>
 
 <p>After a little Google search, I found this <a href="https://gist.github.com/1739538">link</a> explaining how to start the Octopress installation with tool <strong><em>rvm</em></strong>.
 And then I could proceed to the <a href="http://octopress.org/docs/deploying/">next step</a> of the official documentation.</p>
+
+<h2>Deployment</h2>
+
+<p>In this step I choose to make the <a href="http://octopress.org/docs/deploying/github/">Deploying to Github Pages</a> process with my Github User (without the <a href="http://octopress.org/docs/deploying/github/#custom_domains"><em>custom domains</em></a> option).</p>
 ]]></content>
   </entry>
   
