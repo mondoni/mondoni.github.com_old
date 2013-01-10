@@ -9,3 +9,6 @@ categories: octopress
 First post with my new Octopress Blog.
 
 {% img /images/octopress2.jpg octopress %}
+
+<!-- more -->
+TESTEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
