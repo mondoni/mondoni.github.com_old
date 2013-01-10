@@ -4,7 +4,7 @@
   <title><![CDATA[Category: octopress | Searching for Knowledge]]></title>
   <link href="http://mondoni.github.com/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://mondoni.github.com/"/>
-  <updated>2013-01-10T19:31:28+00:00</updated>
+  <updated>2013-01-10T22:44:03+00:00</updated>
   <id>http://mondoni.github.com/</id>
   <author>
     <name><![CDATA[mondoni]]></name>
@@ -18,7 +18,7 @@
     <link href="http://mondoni.github.com/blog/2013/01/10/hello-octopress/"/>
     <updated>2013-01-10T11:50:00+00:00</updated>
     <id>http://mondoni.github.com/blog/2013/01/10/hello-octopress</id>
-    <content type="html"><![CDATA[<p><strong>Hello my new and <em>AWESOME</em> Octopress Blog.</strong></p>
+    <content type="html"><![CDATA[<p><strong>Hello to my new and <em>AWESOME</em> Octopress Blog.</strong></p>
 
 <p><img src="/images/octopress2.jpg" title="octopress" ></p>
 
@@ -29,7 +29,7 @@
 
 <h2>Installation</h2>
 
-<p>At first was a little hard, besause I started to read the offcial <a href="http://octopress.org/docs/">Octopress Documentation</a> and my experience with Ruby was none.</p>
+<p>At first was a little hard, besause when I started to read the offcial <a href="http://octopress.org/docs/">Octopress Documentation</a> and my experience with Ruby was none.</p>
 
 <p>So...I failed at my first installation.
 Why?! What I have done wrong in following the steps?!
