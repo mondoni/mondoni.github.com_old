@@ -4,6 +4,7 @@ title: "Hello Octopress"
 date: 2013-01-10 11:50
 comments: true
 categories: octopress
+published: true
 ---
 
 First post with my new Octopress Blog.
