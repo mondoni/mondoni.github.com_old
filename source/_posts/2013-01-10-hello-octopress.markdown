@@ -6,9 +6,23 @@ comments: true
 categories: octopress
 ---
 
-First post with my new Octopress Blog.
+**Hello my new and _AWESOME_ Octopress Blog.**
 
 {% img /images/octopress2.jpg octopress %}
 
 <!-- more -->
-TESTEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+
+## How it has been my experience with Octopress ?!
+
+## Installation
+
+At first was a little hard, besause I started to read the offcial [Octopress Documentation](http://octopress.org/docs/) and my experience with Ruby was none.
+
+So...I failed at my first installation.
+Why?! What I have done wrong in following the steps?!
+Well...in my notebook I use [Fedora](https://fedoraproject.org/) as my primary OS. For someone with none Ruby experience the official documentation doesn't help very much. And for my pleasure, when I follow all the steps using the Ruby tool **_rbenv_** didn't worked in my installation.
+
+After a little Google search, I found this [link](https://gist.github.com/1739538) explaining how to start the Octopress installation with tool **_rvm_**.
+And then I could proceed to the [next step](http://octopress.org/docs/deploying/) of the official documentation.
+
+
