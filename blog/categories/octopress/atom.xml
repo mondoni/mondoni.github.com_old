@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: octopress | My Octopress Blog]]></title>
+  <title><![CDATA[Category: octopress | Searching for Knowledge]]></title>
   <link href="http://mondoni.github.com/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://mondoni.github.com/"/>
-  <updated>2013-01-10T12:13:04+00:00</updated>
+  <updated>2013-01-10T17:53:13+00:00</updated>
   <id>http://mondoni.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[mondoni]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -21,6 +21,11 @@
     <content type="html"><![CDATA[<p>First post with my new Octopress Blog.</p>
 
 <p><img src="/images/octopress2.jpg" title="octopress" ></p>
+
+<!-- more -->
+
+
+<p>TESTEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE</p>
 ]]></content>
   </entry>
   
