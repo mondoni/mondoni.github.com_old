@@ -7,4 +7,4 @@ sharing: true
 footer: true
 ---
 
-A normal guy who is fascinated by technology, network security, Linux evangelist, photography and always looking for knowledge.
+One crazy person in a continuous process of physical, mental, spiritual evolution which is always seeking for new forms of knowledge to please my own curiosity.
