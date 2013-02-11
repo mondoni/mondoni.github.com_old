@@ -4,7 +4,7 @@
   <title><![CDATA[Searching for Knowledge]]></title>
   <link href="http://mondoni.github.com/atom.xml" rel="self"/>
   <link href="http://mondoni.github.com/"/>
-  <updated>2013-01-16T22:58:03+00:00</updated>
+  <updated>2013-02-11T18:38:07+00:00</updated>
   <id>http://mondoni.github.com/</id>
   <author>
     <name><![CDATA[mondoni]]></name>
@@ -37,7 +37,7 @@
 
 <p>Why?! What I have done wrong in following the steps?!</p>
 
-<p>Well&#8230;in my notebook I use <a href="https://fedoraproject.org/">Fedora</a> as my primary OS. For someone with none Ruby experience the official documentation doesn&#8217;t help very much. And for my pleasure, when I follow all the steps using the Ruby tool <strong><em>rbenv</em></strong> didn&#8217;t worked in my installation.</p>
+<p>Well&#8230;in my notebook I use <a href="https://fedoraproject.org/">Fedora</a> as my primary OS. For someone with no Ruby experience the Octopress official documentation doesn&#8217;t help very much. And for my pleasure, when I follow all the steps using the Ruby tool <strong><em>rbenv</em></strong> didn&#8217;t worked in my installation.</p>
 
 <p>After a little Google search, I found this <a href="https://gist.github.com/1739538">link</a> explaining how to start the Octopress installation with tool <strong><em>rvm</em></strong>.
 And then I could proceed to the <a href="http://octopress.org/docs/setup/">Setup Octopress</a> from the official documentation.</p>
